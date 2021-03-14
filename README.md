@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @cheru94, from Cordoba, Argentina, i've 26 years old and im a Backend Developer, nowadays as a Tech Leader in DinoCloud USA
+- 🌱 I’m currently learning nestJS and typecript for my current project
