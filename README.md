@@ -1,1 +1,1 @@
-- 👋 Hi, I’m @cheru94, from Cordoba, Argentina, i've 27 years old and im a Solution Architect, Technical Leader, Serverless Evangelist & Software Engineer
+fuck off
